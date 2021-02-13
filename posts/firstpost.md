@@ -1,26 +1,42 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Easy-Bake Cherry Hearts Chocolate Cake (V)
+description: The perfect easy-bake receipe for Valentine's Day. 
+date: 2021-02-14
 tags:
   - another-tag
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+<img src="https://pixabay.com/get/g5ab3ae6a586a341175a51d6ac31b78069d4f8160f8b1af8985345a40e902e02056dd766c603632625888df0f7ea48ec6_640.jpg" alt="An image of a chocolate cake with heart sprinkles on top">
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Image by <a href="https://pixabay.com/users/zaaruli-18440915/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5907658">Zaaruli</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5907658">Pixabay</a>
 
-## Section Header
+## Ingredients 
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Wrights chocolate fudge cake mixture
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+4 tbsp vegetable oil
 
-// Test with a line break above this line.
-console.log('Test');
-```
+200ml water
+
+Ready made chocolate frosting
+
+Cherry fruit filling (red or black cherry)
+
+Love-heart sprinkles or chocolate love-hearts (to decorate)
+
+
+Steps to follow:
+
+1. Place 200ml of cold water, 4 tbsp of vegetable oil, and the full bag of Wright's cake mixture into a bowl. Blend ingredients until smooth. 
+
+2. Pour cake mixture into a lined baking tin - I like to use tin foil to line my tin, and bake in the oven at 160-180 degrees, or 140-160 degrees for fan-assisted ovens, or Gas Mark 4, for 50-60 minutes. 
+
+3. Remove the cake from the oven, and allow to cool for 10-15 minutes.
+
+4. Cut the cake in half. Spread 2-3 tbsp of chocolate frosting on the bottom of the top cake layer, and spread a generous amount of the cherry fruit filling onto the top of the bottom cake layer. Then sandwich both the top and bottom of the cake layers together.
+
+5. Spread a little bit of the cherry filling sauce on top of the cake, then spread the rest of the chocolate frosting on the top and sides of the cake.
+
+6. Finish by adding love-heart sprinkles or chocolate love-hearts on top. 
+
+7. Cut a slice and enjoy!
