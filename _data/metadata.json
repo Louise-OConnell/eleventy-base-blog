@@ -1,20 +1,20 @@
 {
-  "title": "Louise's Blog",
-  "url": "https://example.com/",
-  "description": "I am writing about all things creative.",
+  "title": "Easy-Bake Receipes Blog",
+  "url": "https://easybake-receipes.com/",
+  "description": "Sharing easy-bake receipes",
   "feed": {
-    "subtitle": "I am writing about all things creative.",
+    "subtitle": "Sharing my love of easy-bake receipes.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://easybake-receipes.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://easybake-receipes.com/feed/feed.json"
   },
   "author": {
     "name": "Louise O'Connell",
-    "email": "hotfish48@yahoo.co.uk",
-    "url": "https://example.com/about-me/"
+    "email": "easy-bake@gmail.com",
+    "url": "https://easybake-receipes.com/about-me/"
   }
 }
