@@ -6,7 +6,7 @@ tags:
   - another-tag
 layout: layouts/post.njk
 ---
-<img src="/HeartsChocolateCake.png" alt="An image of a chocolate cake with heart sprinkles on top">
+![An image of a chocolate cake with heart sprinkles on top](/Assetts/HeartsChocolateCake.jpg) 
 
 ## Ingredients 
 
