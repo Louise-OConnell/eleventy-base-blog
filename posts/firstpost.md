@@ -6,7 +6,7 @@ tags:
   - another-tag
 layout: layouts/post.njk
 ---
-![An image of a chocolate cake with heart sprinkles on top](https://pixabay.com/get/g3d07145919339739a76bbaad8a3d4f9ac6de3e88a9c4d49c8bac9b21ebb0d426876fa3f1575e015fb762662c652ab635_640.jpg)
+![An image of a chocolate cake with heart sprinkles on top](HeartsChocolateCake.jpg)
 
 ## Ingredients 
 
