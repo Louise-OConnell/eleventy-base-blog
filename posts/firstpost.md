@@ -23,7 +23,7 @@ Cherry fruit filling (red or black cherry)
 Love-heart sprinkles or chocolate love-hearts (to decorate)
 
 
-Directions: 
+### Directions: 
 
 1. Place 200ml of cold water, 4 tbsp of vegetable oil, and the full bag of Wright's cake mixture into a bowl. Blend ingredients until smooth. 
 
