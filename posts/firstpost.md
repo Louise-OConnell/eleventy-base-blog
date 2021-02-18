@@ -6,9 +6,9 @@ tags:
   - another-tag
 layout: layouts/post.njk
 ---
-![An image of a chocolate cake with heart sprinkles on top](HeartsChocolateCake.jpg) 
+![An image of a chocolate cake with heart sprinkles on top](/img/HeartsChocolateCake.jpg) 
 
-## Ingredients 
+## Ingredients
 
 Wrights chocolate fudge cake mixture
 
@@ -23,7 +23,7 @@ Cherry fruit filling (red or black cherry)
 Love-heart sprinkles or chocolate love-hearts (to decorate)
 
 
-Steps to follow:
+Directions:
 
 1. Place 200ml of cold water, 4 tbsp of vegetable oil, and the full bag of Wright's cake mixture into a bowl. Blend ingredients until smooth. 
 
