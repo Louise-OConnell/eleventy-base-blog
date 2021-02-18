@@ -13,7 +13,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
   </head>
   
-  <body class="bg-wheat">
+  <body class="bg-light">
 
   <!--Header-->
 
@@ -33,26 +33,14 @@
     </div>
   </header>
 
-   <!--Main Content-->
-
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-    <div class= "container-fluid p-4">
-    <h1>Welcome to Easy-Bakes<h1>
-    </div>
 
-    <p>Here you will find a variety of delicious recipes that are easy to bake, and even easier to eat.</p>
-    <p>Even if you have never cooked before, these easy step by step recipes will have you feeling like a pro in no time!</p>
-
-      {{ content | safe }}
+     {{ content | safe }}
     
-    </main>
-
     <!--Footer-->
 
-    <footer class= "container-fluid bg-info">
-    <div class="row md-center">
+    <footer class= "row-md-center bg-info">
      <p>&copy; Louise O'Connell 2021</p>
-    </div>
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->
