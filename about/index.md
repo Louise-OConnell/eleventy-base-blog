@@ -7,4 +7,11 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+<main= "container-fluid">
+<div class="row-md-p-4">
+  <h1>Welcome to Easy-Bakes</h1>
+  <p>Here you will find a variety of delicious recipes that are easy to bake, and even easier to eat.</p>
+  <p>Even if you have never cooked before, these easy step by step recipes will have you feeling like a pro in no time!</p>
+</div>
+     
+</main>
