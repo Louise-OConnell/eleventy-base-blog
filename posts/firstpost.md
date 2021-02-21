@@ -2,11 +2,10 @@
 title: Easy-Bake Cherry Hearts Chocolate Cake (V)
 description: The perfect easy-bake receipe for Valentine's Day. 
 date: 2021-02-14
-tags:
-  - another-tag
+tags: Chocolate-Cherry-Cake
 layout: layouts/post.njk
 ---
-![An image of a chocolate cake with heart sprinkles on top](/img/HeartsChocolateCake.jpg) 
+<img class="d-block w-100" src="/img/HeartsChocolateCake.jpg" alt="An image of a chocolate cake with heart sprinkles on top">
 
 ## Ingredients
 
@@ -38,3 +37,6 @@ Love-heart sprinkles or chocolate love-hearts (to decorate)
 6. Finish by adding love-heart sprinkles or chocolate love-hearts on top. 
 
 7. Cut a slice and enjoy!
+
+<a href="{{ '/posts/secondpost/' | url }}">Margherita Pizza</a>
+<a href="{{ '/posts/thirdpost/' | url }}">Witches Broth</a>

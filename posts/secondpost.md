@@ -1,30 +1,34 @@
 ---
-title: Easy-Bake Margherita Pizza
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
-tags:
-  - number-2
+title: Easy-Bake Margherita Pizza (Ve)
+description: The perfect easy-bake recipe for movie night. 
+date: 2021-03-04
+tags: Margherita
 layout: layouts/post.njk
 ---
-![An image of a cheese and tomato pizza](/img/PizzaEasyBakes.jpg)
+<img class="d-block w-100" src="/img/PizzaEasyBakes.jpg" alt="An image of a cheese and tomato pizza">
 
 ## Ingredients
 
-Plain Flour
+### Base
 
-Salt
+200g Plain Flour
 
-Yeast / or Vegan Yeast Flakes
+1 tbsp Salt
 
-Water
+1 Vegan Yeast Flakes
 
-Cheese / or Vegan Cheese
+1 tsp Olive Oil
 
-Tomatoes
+200ml luke warm Water
+
+### Toppings
+
+Vegan Cheese
+
+Passata 
 
 Basil
 
-Olive Oil
 
 ### Directions: 
 
@@ -49,7 +53,7 @@ Vestibulum porttitor sem et odio maximus lacinia.
 Vestibulum lacinia mauris sit amet faucibus tempus.
 
 
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+<a href="{{ '/posts/firstpost/' | url }}">Cherry Chocolate Hearts Cake</a>
+<a href="{{ '/posts/thirdpost/' | url }}">Witches Broth</a>
 
 

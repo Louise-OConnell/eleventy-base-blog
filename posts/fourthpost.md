@@ -1,15 +1,48 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons.
+title: Easy-bake Monster Cupcakes
+description: The perfect recipe for sweet-toothed Monsters.
 date: 2018-09-30
-tags: second-tag
+tags: Monster-Cupcakes
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+<img class="d-block w-100" src="/img/MonsterCupcakes.JPG" alt="An image of monster cupcakes">
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Ingredients
 
-## Section Header
+Lorem ipsum dolor sit amet 
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Consectetur adipiscing elit
+
+Quisque pulvinar mauris vitae ante dictum 
+
+Et facilisis mi facilisis
+
+Cras sollicitudin neque a turpis 
+
+Consequat dignissim
+
+Sed sit amet urna et 
+
+Lectus laoreet sagittis.
+
+### Directions:  
+
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis arcu non massa mattis euismod.
+
+2. Phasellus interdum dolor eget justo ultricies accumsan. Duis viverra diam non mi tempus, eu ultrices erat volutpat.
+
+3. Duis id risus semper, feugiat odio id, tincidunt orci. Pellentesque pulvinar elit ut purus convallis, et pellentesque ipsum suscipit.
+
+4. Fusce sagittis erat ac orci aliquam interdum. Donec volutpat sapien gravida ex ornare egestas. Integer bibendum ipsum nec augue tincidunt varius.
+
+5. Nunc viverra purus sit amet venenatis malesuada. Aliquam accumsan elit sed risus euismod, ac posuere nisi pharetra. Donec dapibus elit id leo suscipit semper.
+
+6. Praesent sed ante quis diam dignissim aliquam id in quam. Nullam tincidunt turpis in neque finibus dignissim.
+
+7. Proin ullamcorper lorem id ante aliquam, at suscipit libero tristique. Vivamus nec massa a lacus porta interdum a ac ligula.  
+
+8. Relax and enjoy! 
+
+<a href="{{ '/posts/secondpost/' | url }}">Margherita Pizza</a>
+<a href="{{ '/posts/firstpost/' | url }}">Cherry Chocolate Hearts Cake</a>
 

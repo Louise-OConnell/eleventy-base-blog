@@ -1,28 +1,45 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
-tags:
-  - second-tag
+title: Witches Broth
+description: The perfect easy-bake recipe for All Hallows Eve.
+date: 2021-10-31
+tags: Halloween
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+<img class="d-block w-100" src="/img/witchesbrew.jpg" alt="Cauldron of Witches Brew">
 
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
+## Ingredients
 
-	counter++;
+2 tbsp Frog's Spawn
 
-}
+1 Rat's Tail
 
-// Test with a line break above this line.
-console.log('Test');
-```
+2 jars of Vampire's Breath
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+4 tbsp Goblin Goo
 
-## Section Header
+5 Troll's Fingernails
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+3 furballs from a black cat
+
+1 inch of wizard's beard
+
+### Directions:  
+
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis arcu non massa mattis euismod.
+
+2. Phasellus interdum dolor eget justo ultricies accumsan. Duis viverra diam non mi tempus, eu ultrices erat volutpat.
+
+3. Duis id risus semper, feugiat odio id, tincidunt orci. Pellentesque pulvinar elit ut purus convallis, et pellentesque ipsum suscipit.
+
+4. Fusce sagittis erat ac orci aliquam interdum. Donec volutpat sapien gravida ex ornare egestas. Integer bibendum ipsum nec augue tincidunt varius.
+
+5. Nunc viverra purus sit amet venenatis malesuada. Aliquam accumsan elit sed risus euismod, ac posuere nisi pharetra. Donec dapibus elit id leo suscipit semper.
+
+6. Praesent sed ante quis diam dignissim aliquam id in quam. Nullam tincidunt turpis in neque finibus dignissim.
+
+7. Proin ullamcorper lorem id ante aliquam, at suscipit libero tristique. Vivamus nec massa a lacus porta interdum a ac ligula.  
+
+8. Boil, bubble, and bon apetite! 
+
+<a href="{{ '/posts/secondpost/' | url }}">Margherita Pizza</a>
+<a href="{{ '/posts/fourthpost/' | url }}">Monster Cupcakes</a>

@@ -13,7 +13,7 @@ eleventyNavigation:
 
 Easy-bakes was originally founded by my husband and I...
 
-![An image of a man and woman](/img/meandpete.JPG)
+<img class="d-block w-100" src="/img/meandpete.JPG" alt="An image of a man and woman">
 
 Although it has since transformed into a community of inspiring people with very little, or zero cooking experience. 
 
