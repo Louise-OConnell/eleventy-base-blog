@@ -33,21 +33,19 @@
     </div>
   </header> 
 
-  <img src="/img/familyeating.jpg">
-
    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
      {{ content | safe }}
     
    <!--Footer-->
 
-  <footer class="container-fluid bg-info sp">
-    <div class="row justify-content-md-center">
-    <div class="col-md d-flex justify-content-center p-3">
+  <footer class="row-md bg-info">
+    <div class="col-md d-flex justify-content-center">
       <p>&copy; Louise O'Connell 2021</p>
-    </div>
     </div> 
   </footer> 
+
+   </main>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
