@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ## Welcome to Easy-Bakes
 
-![An image of a cheese and tomato pizza](/img/PizzaEasyBakes.jpg) 
+<img class="d-block w-100" src="/img/PizzaEasybakes.jpg" alt="An image of a cheese and tomato pizza">
 
 Easy-bakes was originally founded by my husband and I...
 
