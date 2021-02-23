@@ -5,7 +5,7 @@ date: 2021-02-14
 tags: Chocolate-Cherry-Cake
 layout: layouts/post.njk
 ---
-<img class="d-block w-100 img-responsive" src="/img/HeartsChocolateCake.jpg" alt="An image of a chocolate cake with heart sprinkles on top">
+<img class="d-block w-100" src="/img/HeartsChocolateCake.jpg" alt="An image of a chocolate cake with heart sprinkles on top">
 
 ## Ingredients
 

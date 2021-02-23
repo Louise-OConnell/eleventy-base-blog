@@ -5,7 +5,7 @@ date: 2018-09-30
 tags: Monster-Cupcakes
 layout: layouts/post.njk
 ---
-<img class="d-block w-100 img-responsive" src="/img/MonsterCupcakes.JPG" alt="An image of monster cupcakes">
+<img class="d-block w-100" src="/img/MonsterCupcakes.JPG" alt="An image of monster cupcakes">
 
 ## Ingredients
 
