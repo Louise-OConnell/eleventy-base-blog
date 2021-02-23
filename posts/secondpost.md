@@ -5,7 +5,7 @@ date: 2021-03-04
 tags: Margherita
 layout: layouts/post.njk
 ---
-<img class="d-block w-100" src="/img/PizzaEasyBakes.jpg" alt="An image of a cheese and tomato pizza">
+<img class="d-block w-100 img-responsive" src="/img/PizzaEasyBakes.jpg" alt="An image of a cheese and tomato pizza">
 
 ## Ingredients
 

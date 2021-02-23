@@ -5,7 +5,7 @@ date: 2021-10-31
 tags: Halloween
 layout: layouts/post.njk
 ---
-<img class="d-block w-100" src="/img/witchesbrew.jpg" alt="Cauldron of Witches Brew">
+<img class="d-block w-100 img-responsive" src="/img/witchesbrew.jpg" alt="Cauldron of Witches Brew">
 
 ## Ingredients
 
