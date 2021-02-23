@@ -13,15 +13,15 @@ layout: layouts/post.njk
 
 * 1 Rat's Tail
 
-* 2 jars of Vampire's Breath
+* 2 Jars of Vampire's Breath
 
 * 4 tbsp Goblin Goo
 
 * 5 Troll's Fingernails
 
-* 3 furballs from a black cat
+* 3 Furballs from a Black Bat
 
-* 1 inch of wizard's beard
+* 1 Inch of Wizard's Beard
 
 ### Directions:  
 
