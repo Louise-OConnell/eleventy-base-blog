@@ -9,21 +9,21 @@ layout: layouts/post.njk
 
 ## Ingredients
 
-Lorem ipsum dolor sit amet 
+* Lorem ipsum dolor sit amet 
 
-Consectetur adipiscing elit
+* Consectetur adipiscing elit
 
-Quisque pulvinar mauris vitae ante dictum 
+* Quisque pulvinar mauris vitae ante dictum 
 
-Et facilisis mi facilisis
+* Et facilisis mi facilisis
 
-Cras sollicitudin neque a turpis 
+* Cras sollicitudin neque a turpis 
 
-Consequat dignissim
+* Consequat dignissim
 
-Sed sit amet urna et 
+* Sed sit amet urna et 
 
-Lectus laoreet sagittis.
+* Lectus laoreet sagittis.
 
 ### Directions:  
 

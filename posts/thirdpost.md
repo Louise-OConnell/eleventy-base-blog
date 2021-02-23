@@ -9,19 +9,19 @@ layout: layouts/post.njk
 
 ## Ingredients
 
-2 tbsp Frog's Spawn
+* 2 tbsp Frog's Spawn
 
-1 Rat's Tail
+* 1 Rat's Tail
 
-2 jars of Vampire's Breath
+* 2 jars of Vampire's Breath
 
-4 tbsp Goblin Goo
+* 4 tbsp Goblin Goo
 
-5 Troll's Fingernails
+* 5 Troll's Fingernails
 
-3 furballs from a black cat
+* 3 furballs from a black cat
 
-1 inch of wizard's beard
+* 1 inch of wizard's beard
 
 ### Directions:  
 

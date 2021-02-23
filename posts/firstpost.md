@@ -9,17 +9,17 @@ layout: layouts/post.njk
 
 ## Ingredients
 
-Wrights chocolate fudge cake mixture
+* Wrights chocolate fudge cake mixture
 
-4 tbsp vegetable oil
+* 4 tbsp vegetable oil
 
-200ml water
+* 200ml water
 
-Ready made chocolate frosting
+* Ready made chocolate frosting
 
-Cherry fruit filling (red or black cherry)
+* Cherry fruit filling (red or black cherry)
 
-Love-heart sprinkles or chocolate love-hearts (to decorate)
+* Love-heart sprinkles or chocolate love-hearts (to decorate)
 
 
 ### Directions:  

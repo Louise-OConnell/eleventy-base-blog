@@ -11,23 +11,23 @@ layout: layouts/post.njk
 
 ### Base
 
-200g Plain Flour
+* 200g Plain Flour
 
-1 tbsp Salt
+* 1 tbsp Salt
 
-1 Vegan Yeast Flakes
+* 1 Vegan Yeast Flakes
 
-1 tsp Olive Oil
+* 1 tsp Olive Oil
 
-200ml luke warm Water
+* 200ml luke warm Water
 
 ### Toppings
 
-Vegan Cheese
+* Vegan Cheese
 
-Passata 
+* Passata 
 
-Basil
+* Basil
 
 
 ### Directions: 
