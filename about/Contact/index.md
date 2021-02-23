@@ -10,21 +10,29 @@ eleventyNavigation:
 
 <form name="contact" method="POST" data-netlify="true">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>First Name* <input type="text" name="name" required /></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>Surname* <input type="text" name="name" required /></label>   
   </p>
   <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
+    <label>Email* <input type="email" name="email" required /></label>
+  </p>
+  <p>
+    <label>Cooking Experience: <select name="role[]" multiple>
+      <option value="leader">Zero</option>
+      <option value="follower">Amateur</option>
+      <option value="follower">Novice</option>
+      <option value="follower">Pro</option>
     </select></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Message* <textarea name="message" required ></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
   </p>
+  Agree to terms and conditions<input type="checkbox"/>  
+  Subscribe to our newsletter<input type="checkbox"/> 
 </form>
+
