@@ -7,6 +7,4 @@ rating: 5
 ---
 Here is my first digital illustration coloured in Photoshop. 
 
-![Girl skating on the moon ](/images/uploads/skating-moon-jpeg.jpg "Moon Skating")
-
 <img src="{{ thumbnail | url }}"/>
