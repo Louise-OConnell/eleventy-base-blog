@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: My CMS blog
+title: Kitty-Copter
 date: 2021-02-24T11:52:10.415Z
 thumbnail: /images/uploads/kitty-copter.jpeg
 rating: 5
