@@ -7,3 +7,5 @@ thumbnail: /images/uploads/skating-moon-jpeg.jpg
 rating: 4
 ---
 My first attempt at digital colouring on Photoshop.
+
+![](/images/uploads/skating-moon-jpeg.jpg)
