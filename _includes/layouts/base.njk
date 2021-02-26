@@ -34,10 +34,12 @@
     </div>
   </header> 
 
-   <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+  <main class="row justify-content-center pt-3 main-row">
+  <div{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    {{ content | safe }}
+  </div>
+  </main>
 
-     {{ content | safe }}
-    
    <!--Footer-->
 
   <footer class="row-md fixed-bottom bg-info">
@@ -46,9 +48,7 @@
     </div> 
   </footer> 
 
-   </main>
-
-    <!-- Current page: {{ page.url | url }} -->
+   <!-- Current page: {{ page.url | url }} -->
   
   <script>
   if (window.netlifyIdentity) {
