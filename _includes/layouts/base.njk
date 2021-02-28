@@ -39,9 +39,11 @@
   <div class="container-fluid">
    
   <main class="row justify-content-center pt-3 base-row">
+   <div class="col-sm-12">
     <div {% if templateClass %}class="{{templateClass}}"{% endif %}>
       {{ content | safe }}
     </div>
+   </div>
   </main>
 
   </div>
