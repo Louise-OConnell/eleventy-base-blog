@@ -224,10 +224,10 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+/*Added Styles*/
 footer{
 text-align: center;
 }
-/*Added Styles*/
-.main-row img{
+.base-row img{
   width: 100%;
 }
