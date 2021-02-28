@@ -34,11 +34,17 @@
     </div>
   </header> 
 
-  <main class="row justify-content-center pt-3 main-row">
-  <div{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-    {{ content | safe }}
-  </div>
-  </main>
+  <!-- Main Container -->
+    <div class="container-fluid pb-5">
+
+      {# <main {% if templateClass %}class="{{templateClass}}"{% endif %}> #}
+      <main class="row justify-content-center pt-3 main-row">
+        <div {% if templateClass %}class="{{templateClass}}"{% endif %}>
+          {{ content | safe }}
+        </div>
+      </main>
+
+    </div> <!-- main container div -->
 
    <!--Footer-->
 
