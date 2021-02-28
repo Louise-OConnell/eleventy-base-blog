@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: About Me
-templateClass: col-sm-12
+templateClass: col-md-10
 eleventyNavigation:
   key: About Me
   order: 3
