@@ -227,3 +227,7 @@ a[href].direct-link:focus:visited,
 footer{
 text-align: center;
 }
+/*Added Styles*/
+.main-row img{
+  width: 100%;
+}
