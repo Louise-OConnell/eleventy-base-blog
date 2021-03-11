@@ -7,5 +7,4 @@ rating: 4
 ---
 My first attempt at digital colouring in Photoshop.
 
-![](/images/uploads/skating-moon-jpeg.jpg)
 <img src="{{ thumbnail | url }}"/>
