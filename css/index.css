@@ -228,6 +228,7 @@ a[href].direct-link:focus:visited,
 footer{
 text-align: center;
 }
-.base-row img{
-  width: 100%;
+body{
+  text-align: center;
+  background-color: lemonchiffon;
 }
