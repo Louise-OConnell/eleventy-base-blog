@@ -18,6 +18,7 @@ body {
   font-family: system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
+  background-color: lemonchiffon;
 }
 p:last-child {
   margin-bottom: 0;
@@ -229,6 +230,5 @@ footer{
 text-align: center;
 }
 body{
-  align-content: center;
-  background-color: yellow;
+  text-align: inherit;
 }
