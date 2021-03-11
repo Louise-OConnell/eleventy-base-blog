@@ -18,7 +18,6 @@ body {
   font-family: system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
-  background-color: lemonchiffon;
 }
 p:last-child {
   margin-bottom: 0;
@@ -229,6 +228,6 @@ a[href].direct-link:focus:visited,
 footer{
 text-align: center;
 }
-body{
-  text-align: inherit;
+header{
+  text-align: center;
 }
