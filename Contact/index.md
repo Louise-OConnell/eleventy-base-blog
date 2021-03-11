@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Contact Me
-templateClass: col-lg-12
+templateClass: row
 eleventyNavigation: 
   key: Contact Me
   order: 5 
