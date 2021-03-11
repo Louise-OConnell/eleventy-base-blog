@@ -229,6 +229,6 @@ footer{
 text-align: center;
 }
 body{
-  text-align: center;
-  background-color: lemonchiffon;
+  align-content: center;
+  background-color: yellow;
 }
