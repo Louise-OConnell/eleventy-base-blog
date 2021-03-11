@@ -37,11 +37,9 @@
   <!-- Main Container -->
     <div class="container-fluid">
 
-
-      <main class="row justify-content-center">
-      <div class="col-lg">
       {# <main {% if templateClass %}class="{{templateClass}}"{% endif %}> #}
-      {% if templateClass %}class="{{templateClass}}"{% endif %}
+      <main class="row justify-content-center pt-3 base-row">
+        <div {% if templateClass %}class="{{templateClass}}"{% endif %}>
           {{ content | safe }}
         </div>
       </main>
