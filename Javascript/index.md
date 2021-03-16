@@ -20,7 +20,7 @@ document.write('Your total bill before tips is £', + total + '.');
 
 document.write('You have paid a 15% tip, thank you!');
 
-document.write('Your new bill total is £' + total + tip + '.');
+document.write('Your new bill total is £' + total, tip + '.');
 
 document.write('Thank you for your tip of £' + tip + '.');
 
