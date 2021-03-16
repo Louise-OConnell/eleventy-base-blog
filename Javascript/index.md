@@ -14,19 +14,13 @@ var total = 40;
 
 var tipPercent = 15;
 
-var tip = total / 100 * tipPercent;
+var tip = (40 / 100) * 15;
 
 document.write('Your total bill before tips is £', + total + '.');
 
 document.write('You have paid a 15% tip, thank you!');
 
-var total = 40;
-
-var tipPercent = 15;
-
-var tip = total / 100 * tipPercent;
-
-document.write('Your new bill total is' + total + tip + '.');
+document.write('Your new bill total is £' + total + tip + '.');
 
 document.write('Thank you for your tip of £' + tip + '.');
 
