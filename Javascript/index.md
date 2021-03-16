@@ -10,23 +10,18 @@ eleventyNavigation:
 
 // JavaScript Tip Calculator
 
-let total = 40;
-let tipPercent = 15;
-let tip = (total / 100) * tipPercent;
+var total = 40;
 
-console.log('Your total bill is' + total + tip)
+var tipPercent = 15;
 
-//document.write('Your total bill before tips is £', total);
+var tip = (total / 100) * tipPercent;
 
-//document.write('Our suggested tip is 15%');
+document.write('Your total bill before tips is £', total);
 
-//var total = 40
-//var tipPercent = 15
+document.write('You have paid a 15% tip, thank you!');
 
-//var tip=(40 / 100) * 15;
+document.write('Your new bill total is' + total + tip);
 
-//document.write('Your new bill total including a tip is £', total + tip);
-
-//document.write('Thank you for your tip of £' + tip)
+document.write('Thank you for your tip of £' + tip);
 
 </script>
