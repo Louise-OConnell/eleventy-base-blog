@@ -14,10 +14,7 @@ function(bill) {
     let tipPercent = 15;
     let tip = (myBill / 100) * tipPercent;
     let totalBillWithTip = myBill + tip;
- document.getElementById("bill").innerHTML = totalBillWithTip;
- if(myBill){
-     document.write('Your total bill with a 15% tip is ' + totalBillWithTip);
- }
+ document.getElementById("myBill").innerHTML = totalBillWithTip;
 }
 
 
@@ -25,8 +22,8 @@ function(bill) {
 <h2>Tip Calculator</h2>
 <h4>What is my total bill?</h4>
 <p>Here is your bill total with 15% tip</p>
-<input type="text" id="Number" placeholder="enter your bill" oninput="bill(this.value)" onoutput="totalBillWithTip">
-<p id="bill"></p>
+<input type="text" id="Number" placeholder="enter your bill" oninput="bill(this.value)">
+<p id="myBill"></p>
 
 <script> 
 function putOnCoat(temperature){
