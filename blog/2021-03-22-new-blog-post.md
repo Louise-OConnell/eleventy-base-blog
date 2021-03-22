@@ -7,3 +7,5 @@ thumbnail: /images/uploads/picsart_12-16-04.53.55.jpg
 rating: 5
 ---
 A photo from our wedding.
+
+<img src="{{ thumbnail | url }}"/>
