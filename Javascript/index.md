@@ -12,7 +12,7 @@ eleventyNavigation:
 function bill(whatIsMyBill) {
     let totalBill = 50;
     let tipPercent = 15;
-    let tip = (myBill / 100) * tipPercent;
+    let tip = (totalBill / 100) * tipPercent;
     let totalBillWithTip = totalBill + tip;{
         document.write(totalBillWithTip);
     }
