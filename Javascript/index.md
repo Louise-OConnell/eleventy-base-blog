@@ -10,18 +10,22 @@ eleventyNavigation:
 
 // JavaScript Tip Calculator
 document.getElementById('bill').onclick = function() {
-    let myBill = parseFloat(document.getElementById(Value1).value);
+    let myBill = parseFloat(document.getElementById(myBill).value);
     let tipPercent = 15;
     let tip = (myBill / 100) * tipPercent;
     let totalBillWithTip = myBill + tip;
  document.getElementById("bill").innerHTML = totalBillWithTip;
+ if(true){
+     document.write('Your total bill with a 15% tip is ' + totalBillWithTip);
+ }
 }
+
 
 </script>
 <h2>Tip Calculator</h2>
 <h4>What is my total bill?</h4>
 <p>Here is your bill total with 15% tip</p>
-<input type="text" id="Number" placeholder="Value1" oninput="myBill(this.value)" onoutput="totalBillWithTip">
+<input type="text" id="Number" placeholder="enter your bill" oninput="myBill(this.value)" onoutput="totalBillWithTip">
 <p id="bill"></p>
 
 <script> 
