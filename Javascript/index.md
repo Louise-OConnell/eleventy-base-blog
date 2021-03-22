@@ -9,21 +9,20 @@ eleventyNavigation:
 <script>
 
 // JavaScript Tip Calculator
-function totalWithTip(){
-    let myBill = parseFloat(document.getElementById('myBill').value);
-    let tipPercent = 15(document.getElementById('tipPercent').value);
+function totalWithTip(totalBill){
+    let myBill = Number(document.getElementById('myBill').value);
+    let tipPercent = 15;
     let tip = (myBill / 100) * tipPercent;
     let totalBillWithTip = myBill + tip;
+ document.getElementById("bill").innerHTML = "Your total bill with tip is " + totalBillWithTip;
 }
-
-document.getElementById("totalBillWithTip").innerHTML = "Your total bill with tip is " + totalBillWithTip;
 
 </script>
 <h2>Tip Calculator</h2>
 <h4>What is my total bill?</h4>
 <p>Here is your bill total with 15% tip</p>
-<input type="text" id="Number" placeholder="enter a number" oninput="total(this.value)">
-<p id="totalBillWithTip"></p>
+<input type="text" id="Number" placeholder="enter a number" oninput="totalWithTip(this.value)">
+<p id="bill"></p>
 
 <script> 
 function putOnCoat(temperature){
