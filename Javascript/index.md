@@ -9,13 +9,14 @@ eleventyNavigation:
 <script type='text/javascript'>
 
 // JavaScript Tip Calculator
-function totalWithTip(Number){
-let total = Number;
-let tipPercent = 15;
-let tip = (Number / 100) * 15;
-let totalWithTip = total + tip;
-document.getElementById("bill").innerHTML = sentence
+function totalWithTip(){
+    let total = Number(document.getElementById('myBill').value);
+    let tipPercent = 15;
+    let tip = (Number / 100) * 15;
+    let totalWithTip = total + tip;
 }
+
+document.getElementById("results").innerHTML = sentence
 
 </script>
 <h2>Tip Calculator</h2>
@@ -23,6 +24,7 @@ document.getElementById("bill").innerHTML = sentence
 <p>Here is your bill total with 15% tip</p>
 <input type="text" id="Number" placeholder="enter a number" oninput="totalWithTip(this.value)">
 <p id="bill"></p>
+
 
 
 <script> 
