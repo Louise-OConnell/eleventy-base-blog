@@ -9,10 +9,4 @@ templateClass: row
   {{ rating }}
 </p>
 
-{% for blogpost in collections.blog%}
-   <a href="{{blogpost.url}}">{{blogpost.url}}</a>
-{% endfor %}
-
-<img src="{{ thumbnail | url }}"/>
-
 {{ content | safe }}
