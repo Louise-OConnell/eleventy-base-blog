@@ -6,26 +6,24 @@ eleventyNavigation:
   key: Javascript
   order: 6
 ---
-<script type='text/javascript'>
+<script>
 
 // JavaScript Tip Calculator
 function totalWithTip(){
-    let total = Number(document.getElementById('myBill').value);
-    let tipPercent = 15;
-    let tip = (Number / 100) * 15;
-    let totalWithTip = total + tip;
+    let myBill = parseFloat(document.getElementById('myBill').value);
+    let tipPercent = 15(document.getElementById('tipPercent').value);
+    let tip = (myBill / 100) * tipPercent;
+    let totalBillWithTip = myBill + tip;
 }
 
-document.getElementById("results").innerHTML = sentence
+document.getElementById("totalBillWithTip").innerHTML = "Your total bill with tip is " + totalBillWithTip;
 
 </script>
 <h2>Tip Calculator</h2>
 <h4>What is my total bill?</h4>
 <p>Here is your bill total with 15% tip</p>
-<input type="text" id="Number" placeholder="enter a number" oninput="totalWithTip(this.value)">
-<p id="bill"></p>
-
-
+<input type="text" id="Number" placeholder="enter a number" oninput="total(this.value)">
+<p id="totalBillWithTip"></p>
 
 <script> 
 function putOnCoat(temperature){
