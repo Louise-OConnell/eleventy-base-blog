@@ -9,7 +9,7 @@ eleventyNavigation:
 <script>
 
 // JavaScript Tip Calculator
-function(bill) {
+function bill() {
     let totalBill = parseFloat(document.getElementById(myBill).value);
     let tipPercent = 15;
     let tip = (myBill / 100) * tipPercent;
