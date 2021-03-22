@@ -16,7 +16,7 @@ function bill(whatIsMyBill) {
     let totalBillWithTip = totalBill + tip; 
  document.getElementById("myBill").innerHTML = totalBillWithTip;
 }
-document.write(totalBillWithTip);
+document.write('£' + totalBillWithTip);
 
 </script>
 <h2>Tip Calculator</h2>
